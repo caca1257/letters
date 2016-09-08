@@ -1,0 +1,13 @@
+body{
+	background-color:#000;
+	color:#CFB87C;
+
+}
+
+h1{
+	text-align: center;
+	text-transform: uppercase;
+	font-family: 'Arvo', serif;
+	border-style: solid;
+	border: 20px 30px 20px 30px;
+}

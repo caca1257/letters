@@ -1,0 +1,55 @@
+*,
+*:before,
+*:after {
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	background-image: url(../img/grayheart.jpg);
+	background-size: cover;
+	color: rgb(255,255,255);
+}
+header h1{
+	font-family: 'Sail', cursive;
+	font-size: 9em;
+}
+#main, #end, #sig{
+	background-color: rgba(255, 255, 255, 0.2);
+	color: #000;
+	margin: 30px;
+
+}
+#main p{
+	font-family: 'Merienda', cursive;
+	font-size: 1.2em;
+	padding: 50px;
+}
+#main h2{
+	font-family: 'Pinyon Script', cursive;
+	text-align: center;
+	font-size: 4em;
+
+}
+.list{
+	background-color: rgba(255, 255, 255, 0.3);
+	list-style-type: none;
+	text-align: center;
+	font-family: 'Wendy One', sans-serif;
+	padding: 30px;
+	line-height: 2.2em;
+	margin: 60px;
+
+
+}
+#end{
+	font-family: 'Merienda', cursive;
+	font-size: 1.2em;
+	
+}
+#sig{
+	font-family: 'Arizonia', cursive;
+	font-size: 1.2em;
+	text-align: center;
+}

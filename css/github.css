@@ -1,0 +1,57 @@
+*,
+*:before,
+*:after {
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	background-color: #FFBCD4;
+	background-image: url(../img/LoveCubes.jpg);
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+header h1{
+	font-family: 'Lobster Two', cursive;
+	font-size: 8.8em;
+	opacity: 0.9;
+	padding-top: 240px;
+}
+header p{
+	margin: 50px;
+	font-family: 'Yatra One', cursive;
+	font-size: 1.2em;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 70px;
+	border:solid;
+}
+
+#main{
+	margin: 50px;
+	font-family: 'Cormorant SC', serif;
+	font-size: 1.2em;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 70px;
+	border:solid;
+	text-align: center;
+
+}
+li{
+	list-style-type: none;
+}
+
+#closing{
+	margin: 50px;
+	font-family: 'Yatra One', cursive;
+	font-size: 1.2em;
+	background-color: rgba(255, 255, 255, 0.5);
+	padding: 70px;
+	border:solid;
+}
+#end{
+	padding-top: 10px;
+	font-family: 'Homemade Apple', cursive;
+	font-size: 1.2em;
+}
+

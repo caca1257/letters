@@ -1,0 +1,50 @@
+*,
+*:before,
+*:after {
+	margin: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+body{
+	background-image: url(../img/polkahearts.jpg);
+	background-position: center;
+}
+header h2{
+	background-color: rgba(0,0,0,.8);
+	color: rgb(255,255,255);
+	font-family: 'Mr Bedfort', cursive;
+	font-size: 6.6em;
+	text-align: center;
+	padding-top: 30px;
+}
+#main{
+	background-color: rgba(0,0,0,.8);
+	color: rgb(255,255,255);
+	font-family: 'Averia Sans Libre', cursive;
+	padding: 40px;
+	padding-bottom: 20px;
+	font-size: 1.8em;
+
+}
+.list{
+	padding-top:20px;
+	font-family: 'Ranga', cursive;
+	font-size: 1.4em;
+	text-align: center;
+	list-style-type: none;
+}
+footer{
+	background-color: rgba(0,0,0,.8);
+	color: rgb(255,255,255);
+}
+footer p{
+	font-family: 'Averia Sans Libre', cursive;
+	font-size: 1.8em;
+	padding: 40px;
+}
+#sig{
+	font-family: 'Mr Bedfort', cursive;
+	font-size: 1.6em;
+	text-align: right;
+}
